@@ -1,0 +1,6 @@
+Coding ideas:
+
+- Security categorisation
+- Model identification
+- Trade proposal
+- Mean reversal of active management valuation
